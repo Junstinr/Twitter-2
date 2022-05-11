@@ -25,7 +25,7 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='https://i.imgur.com/GbXAEs0.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-**Name of your app** is a basic twitter app to read your tweets.
+**Twitter** is a basic twitter app to read your tweets.
 
 # Twitter - Part I
 
