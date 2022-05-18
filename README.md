@@ -50,5 +50,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Alt Text](https://i.imgur.com/7j4pqyW.gif)
-<img src='https://i.imgur.com/7j4pqyW.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://i.imgur.com/7j4pqyW.gif)
+<img src='https://i.imgur.com/7j4pqyW.gif' width='40' height='60' />
