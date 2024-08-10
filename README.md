@@ -21,9 +21,10 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
 ![Video Walkthrough](https://i.imgur.com/lRURtOw.gif)
+<img src='https://i.imgur.com/lRURtOw.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+<img src='https://i.imgur.com/lRURtOw.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 # Parstagram - Part I
@@ -47,4 +48,9 @@ The following **bonus** features are implemented:
 - [ ] User can pull to refresh. (1pt)
 - [ ] User can load past posts infinitely. (2pts)
 
+## Video Walkthrough
 
+Here's a walkthrough of implemented user stories:
+
+![Video Walkthrough](https://i.imgur.com/lRURtOw.gif)
+<img src='https://i.imgur.com/WBoABja.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />![]
