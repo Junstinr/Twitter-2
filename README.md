@@ -52,5 +52,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Video Walkthrough](https://i.imgur.com/lRURtOw.gif)
+![Video Walkthrough](https://imgur.com/a/ZcOpVqR)
 <img src='https://i.imgur.com/WBoABja.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />![]
